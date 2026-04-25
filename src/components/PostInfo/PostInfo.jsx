@@ -26,4 +26,3 @@ export const PostInfo = ({ post }) => (
     )}
   </div>
 );
-<>Put the post here</>;
